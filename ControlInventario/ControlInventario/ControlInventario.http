@@ -1,0 +1,6 @@
+@ControlInventario_HostAddress = http://localhost:5189
+
+GET {{ControlInventario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
