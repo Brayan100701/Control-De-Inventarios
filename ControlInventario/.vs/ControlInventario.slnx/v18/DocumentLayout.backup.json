@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\pruebas\\ControlInventario\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeToolTip": "ControlInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:20:01.964Z",
+              "EditorCaption": ""
             }
           ]
         }
