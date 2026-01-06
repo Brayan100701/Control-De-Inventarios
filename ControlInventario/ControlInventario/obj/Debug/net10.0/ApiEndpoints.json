@@ -1,5 +1,31 @@
 [
   {
+    "ContainingType": "ControlInventario.Controllers.LoginController",
+    "Method": "GetAccess",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "ControlInventario.Controllers.Test",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ControlInventario.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

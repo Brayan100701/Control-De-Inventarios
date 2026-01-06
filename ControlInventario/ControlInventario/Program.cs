@@ -1,4 +1,5 @@
 using ControlInventario.Models;
+using ControlInventario.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +15,13 @@ builder.Services.AddDbContext<InventarioContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("InvConnection"));
 });
+
+//Inyeccion de servicios
+builder.Services.AddScoped<ILoginService, LoginService>();
+builder.Services.AddScoped<IInventoryService, InventoryService>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 var app = builder.Build();
 

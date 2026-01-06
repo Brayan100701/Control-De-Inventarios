@@ -7,5 +7,15 @@ namespace ControlInventario.Controllers
     [ApiController]
     public class LoginController : ControllerBase
     {
+        [HttpGet]
+        public string GetAccess(Test username)
+        {
+            return username.Username;
+        }
+    }
+
+    public class Test
+    {
+        public string Username { get; set; }
     }
 }

@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\services\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\services\\iinventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|c:\\users\\eh\u00E9catl\\documents\\workspace\\control-de-inventarios\\controlinventario\\controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCF932D7-027B-80E8-7146-AED9573CEB14}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
+              "RelativeToolTip": "ControlInventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T20:04:10.624Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -71,170 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IUserService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IUserService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:53:41.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IProductService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:53:22.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\ILoginService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\ILoginService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\ILoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:53:04.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IInventoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IInventoryService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\IInventoryService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\IInventoryService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\IInventoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:52:09.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "InventoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\InventoryService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\InventoryService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\InventoryService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\InventoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:23:19.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\ProductService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:23:02.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\LoginService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\LoginService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\LoginService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\LoginService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:22:47.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Services\\UserService.cs",
-              "RelativeToolTip": "ControlInventario\\Services\\UserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:22:34.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ControlInventario\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\LoginController.cs",
               "RelativeToolTip": "ControlInventario\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:15:41.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "ControlInventario\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:15:16.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ControlInventario\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:15:05.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Controllers\\UserController.cs",
-              "RelativeToolTip": "ControlInventario\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T18:14:33.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
-              "RelativeDocumentMoniker": "ControlInventario\\Program.cs",
-              "ToolTip": "C:\\Users\\Eh\u00E9catl\\Documents\\workspace\\Control-De-Inventarios\\ControlInventario\\ControlInventario\\Program.cs",
-              "RelativeToolTip": "ControlInventario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T21:20:01.964Z",
+              "WhenOpened": "2026-01-06T19:58:25.201Z",
               "EditorCaption": ""
             }
           ]
